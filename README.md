@@ -16,7 +16,7 @@
 1. **저장소 클론**:
 
 2. **가상 환경 생성**:
-p   ```python3.10 -m venv realsense-env```
+9   ```python3.10 -m venv realsense-env```
 
 
 3. **가상 환경 활성화**:
